@@ -10,9 +10,9 @@ highligher: pygments
 permalink: "/journal/:year/:month/:day/:title/"
 source: source
 
-name: mentalized.net
+name: conmale.net
 description: The virtual home of Jakob Skjerning
-url: https://mentalized.net
+url: https://conmale.net
 
 jekyll-archives:
   enabled:
